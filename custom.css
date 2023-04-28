@@ -1,0 +1,76 @@
+nav {
+    background: #320F00;
+}
+
+h1 {
+    color: #320F00;
+    font-size: 22px;
+    line-height: 28px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.header-top {
+    color: #ffff;
+}
+
+
+
+.header-size {
+    font-size: 14px;
+}
+
+.hero {
+    background: url(https://images.pexels.com/photos/712618/pexels-photo-712618.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2-neil-kelly-712618.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.logo {
+
+    background: url(https://www.gda.fr/upload/parametrage/logo/logo-header.png);
+    background-repeat: no-repeat;
+    
+}
+
+.titre {
+    color: white;
+    text-transform: uppercase;
+}
+.menu-title{
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+.footer {
+    background: #320F00;
+    color: white;
+    max-width: 100%;
+    height: 218px;
+}
+.maps {
+    background: url(img/maps.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 280px;
+}
+.left-card {
+    background: #320F00;
+    color: #ffff;
+}
+
+
+
+@media (min-width: 768px){
+    .m-md-3 {
+        margin: 0 !important;
+    }
+
+ 
+}
+
+
+    
+
